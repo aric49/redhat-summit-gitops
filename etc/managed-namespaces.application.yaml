@@ -9,7 +9,7 @@ spec:
     server: 'https://kubernetes.default.svc'
   source:
     path: managed-namespaces/overlays
-    repoURL: 'https://github.dev/aric49/redhat-summit-gitops/'
+    repoURL: 'https://github.com/aric49/redhat-summit-gitops/'
     targetRevision: HEAD
   project: default
   syncPolicy:
